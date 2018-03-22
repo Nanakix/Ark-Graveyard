@@ -28,3 +28,7 @@ Sur la commune de The Island
 
 Et à la mémoire de leurs frères de Ragnarok :
 - Ray Mysterio
+- Ray Bytesterio
+- Couscous
+- Sakafoutr
+- Patate Enchantée
