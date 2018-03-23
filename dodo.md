@@ -32,3 +32,4 @@ Et à la mémoire de leurs frères de Ragnarok :
 - Couscous
 - Sakafoutr
 - Patate Enchantée
+- Nique Bien Ta Mère Encul
