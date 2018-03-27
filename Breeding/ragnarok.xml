@@ -47,7 +47,7 @@
         <int>0</int>
       </colors>
       <growingUntil>2018-03-25T14:29:15.0767119+02:00</growingUntil>
-      <cooldownUntil>2018-03-26T20:29:10.3357125+02:00</cooldownUntil>
+      <cooldownUntil>2018-03-27T19:50:19.1526513+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T14:28:25.6289328+02:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
@@ -371,7 +371,7 @@
         <int>0</int>
       </colors>
       <growingUntil>2018-03-27T14:46:56.3357067+02:00</growingUntil>
-      <cooldownUntil>2018-03-27T14:46:56.3357067+02:00</cooldownUntil>
+      <cooldownUntil>2018-03-27T19:50:21.5776002+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:46:51.9541503+02:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
@@ -479,7 +479,7 @@
         <int>0</int>
       </colors>
       <growingUntil>2018-03-27T14:49:09.1850764+02:00</growingUntil>
-      <cooldownUntil>2018-03-27T14:49:09.1850764+02:00</cooldownUntil>
+      <cooldownUntil>2018-03-27T19:50:25.2438852+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:49:02.7602605+02:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
@@ -535,6 +535,222 @@
       <growingUntil>2018-03-27T17:18:50.3109396+02:00</growingUntil>
       <cooldownUntil>2018-03-27T17:18:50.3109396+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T17:15:02.5964936+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Vulture</species>
+      <name>Vult10</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>28</int>
+        <int>28</int>
+        <int>30</int>
+        <int>27</int>
+        <int>30</int>
+        <int>43</int>
+        <int>31</int>
+        <int>217</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>b9585e6c-ead0-4cfa-9267-d56798e0792b</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-03-27T19:46:11.8426707+02:00</growingUntil>
+      <cooldownUntil>2018-03-27T19:46:11.8426707+02:00</cooldownUntil>
+      <domesticatedAt>2018-03-27T19:45:41.4283888+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Vulture</species>
+      <name>Vult12</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>31</int>
+        <int>25</int>
+        <int>29</int>
+        <int>27</int>
+        <int>33</int>
+        <int>43</int>
+        <int>27</int>
+        <int>215</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>7b8372a2-afe9-47b1-ad88-2e05a337f520</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-03-27T19:47:25.5535048+02:00</growingUntil>
+      <cooldownUntil>2018-03-27T19:47:25.5535048+02:00</cooldownUntil>
+      <domesticatedAt>2018-03-27T19:47:20.5350163+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Vulture</species>
+      <name>Vult13</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>28</int>
+        <int>33</int>
+        <int>29</int>
+        <int>27</int>
+        <int>33</int>
+        <int>43</int>
+        <int>31</int>
+        <int>224</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>648bae23-662c-445c-8e71-83f8b0937db0</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-03-27T19:48:59.5183048+02:00</growingUntil>
+      <cooldownUntil>2018-03-27T19:48:59.5183048+02:00</cooldownUntil>
+      <domesticatedAt>2018-03-27T19:48:58.5351917+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Vulture</species>
+      <name>Vult11</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>37</int>
+        <int>25</int>
+        <int>29</int>
+        <int>27</int>
+        <int>33</int>
+        <int>43</int>
+        <int>27</int>
+        <int>221</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>1</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>3ac4c802-9991-4140-81bd-d118a9387c2d</guid>
+      <isBred>true</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>1</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-03-27T19:50:06.6027083+02:00</growingUntil>
+      <cooldownUntil>2018-03-27T19:50:06.6022072+02:00</cooldownUntil>
+      <domesticatedAt>2018-03-27T19:50:00.6307429+02:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -614,6 +830,27 @@
       <incubationDuration />
       <incubationEnd>2018-03-26T02:45:22.3357125+02:00</incubationEnd>
       <motherGuid>c8d94f5d-80a8-48d5-89f5-b2dc55d545a3</motherGuid>
+      <fatherGuid>76f49c80-3214-47dd-b934-70abc632e16f</fatherGuid>
+    </IncubationTimerEntry>
+    <IncubationTimerEntry>
+      <incubationStarted>true</incubationStarted>
+      <incubationDuration />
+      <incubationEnd>2018-03-27T19:19:15.7391036+02:00</incubationEnd>
+      <motherGuid>8f09ac2e-0119-4571-96de-e9bf1b4c75da</motherGuid>
+      <fatherGuid>ba0c0114-25bb-46a9-9c8b-12175bc8b5ab</fatherGuid>
+    </IncubationTimerEntry>
+    <IncubationTimerEntry>
+      <incubationStarted>true</incubationStarted>
+      <incubationDuration />
+      <incubationEnd>2018-03-27T19:22:33.9724829+02:00</incubationEnd>
+      <motherGuid>c8d94f5d-80a8-48d5-89f5-b2dc55d545a3</motherGuid>
+      <fatherGuid>76f49c80-3214-47dd-b934-70abc632e16f</fatherGuid>
+    </IncubationTimerEntry>
+    <IncubationTimerEntry>
+      <incubationStarted>true</incubationStarted>
+      <incubationDuration />
+      <incubationEnd>2018-03-27T19:24:57.2839573+02:00</incubationEnd>
+      <motherGuid>8dd543ce-988a-45a7-8346-ff51f329f2f3</motherGuid>
       <fatherGuid>76f49c80-3214-47dd-b934-70abc632e16f</fatherGuid>
     </IncubationTimerEntry>
   </incubationListEntries>
