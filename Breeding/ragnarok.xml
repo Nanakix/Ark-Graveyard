@@ -705,60 +705,6 @@
     </Creature>
     <Creature>
       <species>Vulture</species>
-      <name>Vult11</name>
-      <gender>Female</gender>
-      <status>Available</status>
-      <levelsWild>
-        <int>37</int>
-        <int>25</int>
-        <int>29</int>
-        <int>27</int>
-        <int>33</int>
-        <int>43</int>
-        <int>27</int>
-        <int>221</int>
-      </levelsWild>
-      <levelsDom>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </levelsDom>
-      <tamingEff>1</tamingEff>
-      <imprintingBonus>0</imprintingBonus>
-      <owner />
-      <imprinterName />
-      <tribe />
-      <server />
-      <note />
-      <guid>3ac4c802-9991-4140-81bd-d118a9387c2d</guid>
-      <isBred>true</isBred>
-      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
-      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
-      <generation>1</generation>
-      <colors>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-        <int>0</int>
-      </colors>
-      <growingUntil>2018-03-27T19:50:06.6027083+02:00</growingUntil>
-      <cooldownUntil>2018-03-27T19:50:06.6022072+02:00</cooldownUntil>
-      <domesticatedAt>2018-03-27T19:50:00.6307429+02:00</domesticatedAt>
-      <neutered>false</neutered>
-      <mutationCounter>0</mutationCounter>
-      <mutationsMaternal>0</mutationsMaternal>
-      <mutationsPaternal>0</mutationsPaternal>
-      <tags />
-    </Creature>
-    <Creature>
-      <species>Vulture</species>
       <name>Vult14</name>
       <gender>Female</gender>
       <status>Available</status>
@@ -1561,6 +1507,276 @@
       <growingUntil>2018-03-29T20:28:34.1010369+02:00</growingUntil>
       <cooldownUntil>2018-03-29T20:28:34.1010369+02:00</cooldownUntil>
       <domesticatedAt>2018-03-29T20:28:24.9883798+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Dimorphodon</species>
+      <name>Sauv'teur de l'Extrême</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>25</int>
+        <int>34</int>
+        <int>31</int>
+        <int>27</int>
+        <int>26</int>
+        <int>28</int>
+        <int>29</int>
+        <int>200</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.98684210526315641</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>efc7f1c0-ce57-4765-9e30-d5df103391af</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-01T16:25:42.4942263+02:00</growingUntil>
+      <cooldownUntil>2018-04-01T16:25:42.4937263+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-01T16:24:58.9061913+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Doedicurus</species>
+      <name>Doédenlcul</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>23</int>
+        <int>23</int>
+        <int>26</int>
+        <int>32</int>
+        <int>37</int>
+        <int>26</int>
+        <int>34</int>
+        <int>201</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.88751322751322737</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>177a413a-d40d-4d63-9ce9-4b15f5bb2df8</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-01T16:44:17.9003649+02:00</growingUntil>
+      <cooldownUntil>2018-04-01T16:44:17.9003649+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-01T16:44:00.7721899+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Doedicurus</species>
+      <name>Di Da Wea</name>
+      <gender>Male</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>32</int>
+        <int>23</int>
+        <int>31</int>
+        <int>27</int>
+        <int>32</int>
+        <int>35</int>
+        <int>28</int>
+        <int>208</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>47</int>
+        <int>6</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99939939939939937</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>123478e6-4518-45d1-8b06-30ade8557db6</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-01T16:47:11.7059354+02:00</growingUntil>
+      <cooldownUntil>2018-04-01T16:47:11.7059354+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-01T16:45:03.6811783+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Doedicurus</species>
+      <name>Doékipu</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>30</int>
+        <int>32</int>
+        <int>37</int>
+        <int>36</int>
+        <int>31</int>
+        <int>29</int>
+        <int>21</int>
+        <int>216</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.999661835748793</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>a99b738d-6f2b-4082-bee8-2a0e0bae951d</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-01T17:00:02.0702593+02:00</growingUntil>
+      <cooldownUntil>2018-04-01T17:00:02.0702593+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-01T16:59:37.8566845+02:00</domesticatedAt>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Pteranodon</species>
+      <name>Ptairage</name>
+      <gender>Female</gender>
+      <status>Available</status>
+      <levelsWild>
+        <int>37</int>
+        <int>31</int>
+        <int>29</int>
+        <int>32</int>
+        <int>33</int>
+        <int>39</int>
+        <int>0</int>
+        <int>201</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99761904761904741</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner />
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>d20234c3-8d55-477e-9d64-5b0095f96343</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-01T17:30:07.4660154+02:00</growingUntil>
+      <cooldownUntil>2018-04-01T17:30:07.4660154+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-01T17:29:51.1864482+02:00</domesticatedAt>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
