@@ -5,6 +5,7 @@
       <species>Vulture</species>
       <name>Vult1</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -49,6 +50,7 @@
       <growingUntil>2018-03-25T14:29:15.0767119+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:23:42.3426678+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T14:28:25.6289328+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -59,6 +61,7 @@
       <species>Vulture</species>
       <name>Vult2</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -103,6 +106,7 @@
       <growingUntil>2018-03-25T14:38:40.6665326+02:00</growingUntil>
       <cooldownUntil>2018-03-25T20:47:07.0000798+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T14:38:31.8614145+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -113,6 +117,7 @@
       <species>Vulture</species>
       <name>Vult3</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -157,6 +162,7 @@
       <growingUntil>2018-03-25T14:55:40.7795705+02:00</growingUntil>
       <cooldownUntil>2018-03-25T14:55:40.7795705+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T14:55:17.4236047+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -167,6 +173,7 @@
       <species>Vulture</species>
       <name>Vult5</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -211,6 +218,7 @@
       <growingUntil>2018-03-25T20:44:52.2709714+02:00</growingUntil>
       <cooldownUntil>2018-03-25T20:44:52.2709714+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T20:44:41.4585984+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -221,6 +229,7 @@
       <species>Vulture</species>
       <name>Vult4</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -265,6 +274,7 @@
       <growingUntil>2018-03-25T20:45:48.7261403+02:00</growingUntil>
       <cooldownUntil>2018-03-25T20:45:48.7261403+02:00</cooldownUntil>
       <domesticatedAt>2018-03-25T20:45:43.2404437+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -275,6 +285,7 @@
       <species>Vulture</species>
       <name>Vult6</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -319,6 +330,7 @@
       <growingUntil>2018-03-27T14:46:08.1880927+02:00</growingUntil>
       <cooldownUntil>2018-03-27T14:46:08.1880927+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:45:52.2220653+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -329,6 +341,7 @@
       <species>Vulture</species>
       <name>Vult7</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -373,6 +386,7 @@
       <growingUntil>2018-03-27T14:46:56.3357067+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:23:46.3021706+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:46:51.9541503+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -383,6 +397,7 @@
       <species>Vulture</species>
       <name>Vult9</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -427,6 +442,7 @@
       <growingUntil>2018-03-27T14:48:08.6808933+02:00</growingUntil>
       <cooldownUntil>2018-03-27T14:48:08.6808933+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:47:55.5332238+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -437,6 +453,7 @@
       <species>Vulture</species>
       <name>Vult8</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -481,6 +498,7 @@
       <growingUntil>2018-03-27T14:49:09.1850764+02:00</growingUntil>
       <cooldownUntil>2018-03-27T19:50:25.2438852+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T14:49:02.7602605+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -491,6 +509,7 @@
       <species>Rex</species>
       <name>Pierre Célor</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>22</int>
@@ -535,6 +554,7 @@
       <growingUntil>2018-03-27T17:18:50.3109396+02:00</growingUntil>
       <cooldownUntil>2018-03-27T17:18:50.3109396+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T17:15:02.5964936+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -545,6 +565,7 @@
       <species>Vulture</species>
       <name>Vult10</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -589,9 +610,10 @@
       <growingUntil>2018-03-28T12:22:35.571689+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:22:35.571689+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T19:45:41.4283888+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>1</mutationCounter>
-      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsMaternal>1</mutationsMaternal>
       <mutationsPaternal>0</mutationsPaternal>
       <tags />
     </Creature>
@@ -599,6 +621,7 @@
       <species>Vulture</species>
       <name>Vult12</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -643,6 +666,7 @@
       <growingUntil>2018-03-27T19:47:25.5535048+02:00</growingUntil>
       <cooldownUntil>2018-03-27T19:47:25.5535048+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T19:47:20.5350163+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -653,6 +677,7 @@
       <species>Vulture</species>
       <name>Vult13</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -697,6 +722,7 @@
       <growingUntil>2018-03-27T19:48:59.5183048+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:23:44.2674122+02:00</cooldownUntil>
       <domesticatedAt>2018-03-27T19:48:58.5351917+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -707,6 +733,7 @@
       <species>Vulture</species>
       <name>Vult14</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -751,9 +778,10 @@
       <growingUntil>2018-03-28T12:09:13.5223416+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:09:13.5223416+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T11:41:18.9046922+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>1</mutationCounter>
-      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsMaternal>1</mutationsMaternal>
       <mutationsPaternal>0</mutationsPaternal>
       <tags />
     </Creature>
@@ -761,6 +789,7 @@
       <species>Vulture</species>
       <name>Vult15</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -805,6 +834,7 @@
       <growingUntil>2018-03-28T12:08:57.1802665+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:08:57.1802665+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T12:08:27.3969845+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -815,6 +845,7 @@
       <species>Vulture</species>
       <name>Vult16</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -859,6 +890,7 @@
       <growingUntil>2018-03-28T12:15:50.5262547+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:15:50.5262547+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T12:15:28.3639405+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -869,6 +901,7 @@
       <species>Vulture</species>
       <name>Vult17</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -913,6 +946,7 @@
       <growingUntil>2018-03-28T12:20:04.0944538+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:20:04.0944538+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T12:16:26.2472907+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -923,6 +957,7 @@
       <species>Vulture</species>
       <name>Vult18</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -967,6 +1002,7 @@
       <growingUntil>2018-03-28T12:18:40.6893627+02:00</growingUntil>
       <cooldownUntil>2018-03-28T12:18:40.6893627+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T12:18:29.500942+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -977,6 +1013,7 @@
       <species>Vulture</species>
       <name>Vult24</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>31</int>
@@ -1021,6 +1058,7 @@
       <growingUntil>2018-03-28T20:37:53.1162497+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:37:53.1162497+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:37:32.8671783+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1031,6 +1069,7 @@
       <species>Vulture</species>
       <name>Vult21</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>34</int>
@@ -1075,6 +1114,7 @@
       <growingUntil>2018-03-28T20:38:39.1495951+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:38:39.1495951+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:38:35.423622+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1085,6 +1125,7 @@
       <species>Vulture</species>
       <name>Vult23</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -1129,6 +1170,7 @@
       <growingUntil>2018-03-28T20:39:37.8640509+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:39:37.8640509+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:39:21.2199374+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1139,6 +1181,7 @@
       <species>Vulture</species>
       <name>Vult25</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -1183,6 +1226,7 @@
       <growingUntil>2018-03-28T20:40:55.1403638+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:40:55.1403638+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:40:48.8535655+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1193,6 +1237,7 @@
       <species>Vulture</species>
       <name>Vult19</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -1237,6 +1282,7 @@
       <growingUntil>2018-03-28T20:41:50.47189+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:41:50.47189+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:41:36.1905765+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1247,6 +1293,7 @@
       <species>Vulture</species>
       <name>Vult26</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>32</int>
@@ -1291,6 +1338,7 @@
       <growingUntil>2018-03-28T20:42:42.9135492+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:42:42.9135492+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:42:38.2739601+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1301,6 +1349,7 @@
       <species>Vulture</species>
       <name>Vult22</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -1345,6 +1394,7 @@
       <growingUntil>2018-03-28T20:43:43.3022176+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:43:43.3022176+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:43:19.7697294+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1355,6 +1405,7 @@
       <species>Vulture</species>
       <name>Vult20</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>38</int>
@@ -1399,6 +1450,7 @@
       <growingUntil>2018-03-28T20:44:54.022698+02:00</growingUntil>
       <cooldownUntil>2018-03-28T20:44:54.022698+02:00</cooldownUntil>
       <domesticatedAt>2018-03-28T20:44:44.730518+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1409,6 +1461,7 @@
       <species>Vulture</species>
       <name>Vult27</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>29</int>
@@ -1453,6 +1506,7 @@
       <growingUntil>2018-03-29T14:17:34.7254552+02:00</growingUntil>
       <cooldownUntil>2018-03-29T14:17:34.7254552+02:00</cooldownUntil>
       <domesticatedAt>2018-03-29T14:17:19.6690433+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1463,6 +1517,7 @@
       <species>Vulture</species>
       <name>Vult028</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>28</int>
@@ -1507,6 +1562,7 @@
       <growingUntil>2018-03-29T20:28:34.1010369+02:00</growingUntil>
       <cooldownUntil>2018-03-29T20:28:34.1010369+02:00</cooldownUntil>
       <domesticatedAt>2018-03-29T20:28:24.9883798+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1517,6 +1573,7 @@
       <species>Dimorphodon</species>
       <name>Sauv'teur de l'Extrême</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>25</int>
@@ -1561,6 +1618,7 @@
       <growingUntil>2018-04-01T16:25:42.4942263+02:00</growingUntil>
       <cooldownUntil>2018-04-01T16:25:42.4937263+02:00</cooldownUntil>
       <domesticatedAt>2018-04-01T16:24:58.9061913+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1571,6 +1629,7 @@
       <species>Doedicurus</species>
       <name>Doédenlcul</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>23</int>
@@ -1615,6 +1674,7 @@
       <growingUntil>2018-04-01T16:44:17.9003649+02:00</growingUntil>
       <cooldownUntil>2018-04-01T16:44:17.9003649+02:00</cooldownUntil>
       <domesticatedAt>2018-04-01T16:44:00.7721899+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1625,6 +1685,7 @@
       <species>Doedicurus</species>
       <name>Di Da Wea</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>32</int>
@@ -1669,6 +1730,7 @@
       <growingUntil>2018-04-01T16:47:11.7059354+02:00</growingUntil>
       <cooldownUntil>2018-04-01T16:47:11.7059354+02:00</cooldownUntil>
       <domesticatedAt>2018-04-01T16:45:03.6811783+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1679,6 +1741,7 @@
       <species>Doedicurus</species>
       <name>Doékipu</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>30</int>
@@ -1723,6 +1786,7 @@
       <growingUntil>2018-04-01T17:00:02.0702593+02:00</growingUntil>
       <cooldownUntil>2018-04-01T17:00:02.0702593+02:00</cooldownUntil>
       <domesticatedAt>2018-04-01T16:59:37.8566845+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1733,6 +1797,7 @@
       <species>Pteranodon</species>
       <name>Ptairage</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>37</int>
@@ -1777,6 +1842,7 @@
       <growingUntil>2018-04-01T17:30:07.4660154+02:00</growingUntil>
       <cooldownUntil>2018-04-01T17:30:07.4660154+02:00</cooldownUntil>
       <domesticatedAt>2018-04-01T17:29:51.1864482+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1787,6 +1853,7 @@
       <species>Argentavis</species>
       <name>Argus Bourdon</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>23</int>
@@ -1831,6 +1898,7 @@
       <growingUntil>2018-04-02T14:31:13.1588342+02:00</growingUntil>
       <cooldownUntil>2018-04-02T14:31:13.1588342+02:00</cooldownUntil>
       <domesticatedAt>2018-04-02T14:29:55.1754316+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1841,6 +1909,7 @@
       <species>Ankylosaurus</species>
       <name>NichoPD</name>
       <gender>Male</gender>
+      <sex>Male</sex>
       <status>Available</status>
       <levelsWild>
         <int>27</int>
@@ -1885,6 +1954,7 @@
       <growingUntil>2018-04-03T18:31:18.9176391+02:00</growingUntil>
       <cooldownUntil>2018-04-03T18:31:18.9176391+02:00</cooldownUntil>
       <domesticatedAt>2018-04-03T18:31:01.3269054+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -1895,6 +1965,7 @@
       <species>Ankylosaurus</species>
       <name>Kylo-Métal</name>
       <gender>Female</gender>
+      <sex>Female</sex>
       <status>Available</status>
       <levelsWild>
         <int>23</int>
@@ -1939,6 +2010,63 @@
       <growingUntil>2018-04-03T20:54:09.5229678+02:00</growingUntil>
       <cooldownUntil>2018-04-03T20:54:09.5229678+02:00</cooldownUntil>
       <domesticatedAt>2018-04-03T20:53:43.5321674+02:00</domesticatedAt>
+      <addedToLibrary>0001-01-01T00:00:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
+    <Creature>
+      <species>Argentavis</species>
+      <name>Fatgentavis</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>36</int>
+        <int>40</int>
+        <int>34</int>
+        <int>41</int>
+        <int>36</int>
+        <int>36</int>
+        <int>0</int>
+        <int>223</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99778270509977829</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner>Daxgar</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>2299a5c0-7dac-42fb-b76f-5c6bb9ec9842</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-03T22:15:32.5070946+02:00</growingUntil>
+      <cooldownUntil>2018-04-03T22:15:32.5070946+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-03T22:15:21.8658136+02:00</domesticatedAt>
+      <addedToLibrary>2018-04-03T22:15:32.5070946+02:00</addedToLibrary>
       <neutered>false</neutered>
       <mutationCounter>0</mutationCounter>
       <mutationsMaternal>0</mutationsMaternal>
@@ -2109,6 +2237,12 @@
     </Player>
     <Player>
       <PlayerName>Zazar</PlayerName>
+      <Tribe />
+      <Level>0</Level>
+      <Note />
+    </Player>
+    <Player>
+      <PlayerName>Daxgar</PlayerName>
       <Tribe />
       <Level>0</Level>
       <Note />
