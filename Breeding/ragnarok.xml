@@ -2185,6 +2185,62 @@
       <mutationsPaternal>0</mutationsPaternal>
       <tags />
     </Creature>
+    <Creature>
+      <species>Argentavis</species>
+      <name>Métalàvie</name>
+      <gender>Unknown</gender>
+      <sex>Female</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>41</int>
+        <int>32</int>
+        <int>38</int>
+        <int>28</int>
+        <int>39</int>
+        <int>38</int>
+        <int>0</int>
+        <int>216</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99670951943679187</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner>Daxgar</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>1d33b414-7b52-444d-8d04-efd8bf32f70a</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-04T00:13:45.3083731+02:00</growingUntil>
+      <cooldownUntil>2018-04-04T00:13:45.3083731+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-04T00:12:45.5575756+02:00</domesticatedAt>
+      <addedToLibrary>2018-04-04T00:13:45.3083731+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues />
   <multipliers>
