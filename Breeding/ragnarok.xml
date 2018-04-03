@@ -2073,6 +2073,62 @@
       <mutationsPaternal>0</mutationsPaternal>
       <tags />
     </Creature>
+    <Creature>
+      <species>Ankylosaurus</species>
+      <name>Inkylodemerde</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>26</int>
+        <int>27</int>
+        <int>32</int>
+        <int>25</int>
+        <int>28</int>
+        <int>29</int>
+        <int>26</int>
+        <int>193</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.99968253968253973</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner>Daxgar</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>c4687411-ffee-4dd1-b811-96efe9cedcc3</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-03T22:58:00.9730592+02:00</growingUntil>
+      <cooldownUntil>2018-04-03T22:58:00.9730592+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-03T22:56:33.5081071+02:00</domesticatedAt>
+      <addedToLibrary>2018-04-03T22:58:00.9730592+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues />
   <multipliers>
