@@ -2241,6 +2241,62 @@
       <mutationsPaternal>0</mutationsPaternal>
       <tags />
     </Creature>
+    <Creature>
+      <species>Argentavis</species>
+      <name>Argent-Carmin</name>
+      <gender>Unknown</gender>
+      <sex>Male</sex>
+      <status>Available</status>
+      <levelsWild>
+        <int>28</int>
+        <int>32</int>
+        <int>37</int>
+        <int>38</int>
+        <int>29</int>
+        <int>52</int>
+        <int>0</int>
+        <int>216</int>
+      </levelsWild>
+      <levelsDom>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </levelsDom>
+      <tamingEff>0.997027495665098</tamingEff>
+      <imprintingBonus>0</imprintingBonus>
+      <owner>NGongroux</owner>
+      <imprinterName />
+      <tribe />
+      <server />
+      <note />
+      <guid>71aa82c7-8ecd-4404-98d6-4f68aa659423</guid>
+      <isBred>false</isBred>
+      <fatherGuid>00000000-0000-0000-0000-000000000000</fatherGuid>
+      <motherGuid>00000000-0000-0000-0000-000000000000</motherGuid>
+      <generation>0</generation>
+      <colors>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+      </colors>
+      <growingUntil>2018-04-05T21:36:29.4724785+02:00</growingUntil>
+      <cooldownUntil>2018-04-05T21:36:29.4724785+02:00</cooldownUntil>
+      <domesticatedAt>2018-04-05T21:36:12.9069319+02:00</domesticatedAt>
+      <addedToLibrary>2018-04-05T21:36:29.4754863+02:00</addedToLibrary>
+      <neutered>false</neutered>
+      <mutationCounter>0</mutationCounter>
+      <mutationsMaternal>0</mutationsMaternal>
+      <mutationsPaternal>0</mutationsPaternal>
+      <tags />
+    </Creature>
   </creatures>
   <creaturesValues />
   <multipliers>
@@ -2411,6 +2467,12 @@
     </Player>
     <Player>
       <PlayerName>Daxgar</PlayerName>
+      <Tribe />
+      <Level>0</Level>
+      <Note />
+    </Player>
+    <Player>
+      <PlayerName>NGongroux</PlayerName>
       <Tribe />
       <Level>0</Level>
       <Note />
